@@ -1,0 +1,33 @@
+body {background-color: black;
+  color: white;
+}
+h1 {
+    text-align: center;
+border-color: white
+}
+h2 {text-align: center;}
+h3 {text-align: center;}
+.images {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+img {
+  height: 175px;}
+
+ a:link {
+  color: white;
+}
+a:visited {
+  color: white;
+}
+a:hover {
+  color: red;
+  transition-delay: 0.5s;
+}
+div {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
